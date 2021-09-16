@@ -1,0 +1,12 @@
+var nome = "Fernando"
+
+var notaDoPrimeiroBimestre = 7
+var notaDoSegundoBimestre = 8
+var notaDoTerceiroBimestre = 9
+var notaDoQuartoBimestre = 10
+
+var notaFinal = (notaDoPrimeiroBimestre + notaDoSegundoBimestre + notaDoTerceiroBimestre + notaDoQuartoBimestre)/4
+
+
+
+console.log("Bem vindo " + nome + "\n" + "Sua media final é: " + notaFinal)
